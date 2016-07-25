@@ -35,7 +35,11 @@
 --   (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE  --
 --   OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.   --
 --                                                                          --
---   Based on Adacore drivers for STM32F4                                   --
+--  This file is based on:                                                  --
+--                                                                          --
+--   @file    stm32f4.ads                                                   --
+--   @author  Adacore Team                                                  --
+--   @copyright  2015                                                       --
 ------------------------------------------------------------------------------
 
 --  This file provides type definitions for the STM32F411 (ARM Cortex M4F)  --
