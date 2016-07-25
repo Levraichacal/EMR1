@@ -4,7 +4,6 @@
 --                                                                          --
 --                                S p e c                                   --
 --                                                                          --
---  Copyright (C) 2015, AdaCore                                             --
 --  Copyright (C) 2016, Bardot Sébastien                                    --
 --                                                                          --
 --  More information on http://lvcetada.e-monsite.com/ or by mail on        --
@@ -39,7 +38,7 @@
 --                                                                          --
 --   @file    stm32f4.ads                                                   --
 --   @author  Adacore Team                                                  --
---   @copyright  2015                                                       --
+--   COPYRIGHT(c) 2015 AdaCore                                              --
 ------------------------------------------------------------------------------
 
 --  This file provides type definitions for the STM32F411 (ARM Cortex M4F)  --
