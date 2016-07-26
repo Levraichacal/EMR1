@@ -36,10 +36,21 @@
 --                                                                          --
 --  This file is based on:                                                  --
 --                                                                          --
+--   @file    stm32f4xx_hal_adc.c                                           --
+--   @author  MCD Application Team                                          --
+--   @version V1.3.1                                                        --
+--   @date    25-March-2015                                                 --
+--   @brief   Header file of ADC HAL module.                                --
+--                                                                          --
+--   COPYRIGHT(c) 2014 STMicroelectronics                                   --
+--                                                                          --
+--   and on :                                                               --
+--                                                                          --
 --   @file    stm32f4.ads                                                   --
 --   @author  Adacore Team                                                  --
---   COPYRIGHT(c) 2015 AdaCore                                              --
+--   @copyright  2015 Adacore                                               --
 ------------------------------------------------------------------------------
+--  The change have been done to be used with STM32F411 by Sébastien BARDOT --
 
 --  This file provides type definitions for the STM32F411 (ARM Cortex M4F)  --
 --  microcontrollers from ST Microelectronics. It can be used on            --
