@@ -34,8 +34,17 @@
 --   (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE  --
 --   OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.   --
 --                                                                          --
---                                                                          --
+
 --  This file is based on:                                                  --
+--                                                                          --
+--   @file    stm32f4xx_hal_dma.c                                           --
+--   @author  MCD Application Team                                          --
+--   @version V1.1.0                                                        --
+--   @date    19-June-2014                                                  --
+--   @brief   DMA HAL module driver.                                        --
+--   COPYRIGHT(c) 2014 STMicroelectronics                                   --
+--                                                                          --
+--  And on:                                                                 --
 --                                                                          --
 --   @file    stm32f4-dma.adb                                               --
 --   @author  Adacore Team                                                  --
