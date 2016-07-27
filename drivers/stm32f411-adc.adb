@@ -48,7 +48,7 @@
 --                                                                          --
 --   @file    stm32f4-adc.adb                                               --
 --   @author  Adacore Team                                                  --
---   COPYRIGHT(c) 2015-2016 AdaCore                                         --
+--   COPYRIGHT(c) 2015 AdaCore                                              --
 ------------------------------------------------------------------------------
 
 package body STM32F411.ADC is
