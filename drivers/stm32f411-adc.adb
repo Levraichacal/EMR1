@@ -37,6 +37,15 @@
 --                                                                          --
 --  This file is based on:                                                  --
 --                                                                          --
+--   @file    stm32f4xx_hal_adc.c                                           --
+--   @author  MCD Application Team                                          --
+--   @version V1.3.1                                                        --
+--   @date    25-March-2015                                                 --
+--   @brief   Header file of ADC HAL module.                                --
+--   COPYRIGHT(c) 2014 STMicroelectronics                                   --
+--                                                                          --
+--   and on :                                                               --
+--                                                                          --
 --   @file    stm32f4-adc.adb                                               --
 --   @author  Adacore Team                                                  --
 --   COPYRIGHT(c) 2015-2016 AdaCore                                         --
