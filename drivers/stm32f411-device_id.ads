@@ -8,6 +8,7 @@
 --                                                                          --
 --  More information on http://lvcetada.e-monsite.com/ or by mail on        --
 --  lvcetada@gmail.com or sjp.bardot@gmail.com                              --
+--                                                                          --
 --  Redistribution and use in source and binary forms, with or without      --
 --  modification, are permitted provided that the following conditions are  --
 --  met:                                                                    --
